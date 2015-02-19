@@ -1,0 +1,34 @@
+{
+	"ImportPath": "github.com/thoas/gostorages",
+	"GoVersion": "go1.4.2",
+	"Deps": [
+		{
+			"ImportPath": "github.com/kr/fs",
+			"Rev": "2788f0dbd16903de03cb8186e5c7d97b69ad387b"
+		},
+		{
+			"ImportPath": "github.com/mitchellh/goamz/aws",
+			"Rev": "e99a7300be9605de0c4b6366988e1df883fabfe3"
+		},
+		{
+			"ImportPath": "github.com/mitchellh/goamz/s3",
+			"Rev": "e99a7300be9605de0c4b6366988e1df883fabfe3"
+		},
+		{
+			"ImportPath": "github.com/pkg/sftp",
+			"Rev": "506297c9013d2893d5c5daaa9155e7333a1c58de"
+		},
+		{
+			"ImportPath": "github.com/stretchr/testify/assert",
+			"Rev": "e4ec8152c15fc46bd5056ce65997a07c7d415325"
+		},
+		{
+			"ImportPath": "github.com/vaughan0/go-ini",
+			"Rev": "a98ad7ee00ec53921f08832bc06ecf7fd600e6a1"
+		},
+		{
+			"ImportPath": "golang.org/x/crypto/ssh",
+			"Rev": "1351f936d976c60a0a48d728281922cf63eafb8d"
+		}
+	]
+}
